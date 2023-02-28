@@ -1,0 +1,43 @@
+*{
+  background-image: url(fondo.avif);
+  max-width: 100%; height: auto; 
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 50px;
+  max-width: 100%; height: auto; 
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 200px;
+  height: 183.88px;
+  margin-bottom: 30px;
+  border: 10px double rgba(0,0,0,.25);
+}
+
+.centrado{
+  display: flex;
+  justify-content: center;
+}
+
+button{
+  font-family: 'Libre Baskerville', serif;
+  margin: 1px 10px; 
+}
+
+#mostrar{
+  margin: 30px auto;
+  border: 10px double rgba(0,0,0,.25);
+  font-family: 'Libre Baskerville', serif;
+  font-size: 12px;
+  max-width: 100%; height: auto; 
+}
+
+li{
+  padding: 5px 0px;
+}
