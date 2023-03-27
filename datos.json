@@ -1,0 +1,15 @@
+{
+    "nombre": "Mario",
+    "apellido": "Cordoba",
+    "dni": 3474846,
+    "nacimiento": "20 Octubre 1989, Salta Capital",
+    "edad": 33,
+    "direccion": "Miguel David 3165, Parana - Entre Rios",
+    "mail": "mario1989cordoba@gmail.com",
+    "numero": "3517556328",
+    "primaria": "Mtro. Alejandro Gauffin, Salta Capital",
+    "secundaria": "EET N 5117, Mtro. Daniel Oscar Reyes, Salta capital",
+    "terciaria": "Escuela de Suboficiales de Fuerza Aerea Argentina, Cordoba Capital",
+    "titulo1": "Polimodal en producción de bienes y servicios(Informatica)",
+    "titulo2": "Técnico superior en electrónica aeronautica"
+}
